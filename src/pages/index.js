@@ -5,10 +5,14 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
     <div className="HeroGroup">
-    <h1>Hi  I'm Kaiz</h1>
-    <p>Welcome to your new Gatsby site.SSSSS</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">到第二頁0</Link>
+    <h1>Kaiz<br />
+Design and Code <br />website show
+</h1>
+    <p>Complete courses about the best 
+design systhems.Prototype and 
+build apps <br />with React and C#</p>
+    <p></p>
+    <Link to="/page-2/">Watch THE Video</Link>
     </div>
     </div>
     
