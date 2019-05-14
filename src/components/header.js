@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import logo from '../images/logo-designcode.svg'
+import logo from '../images/k.png'
 import './Header.css'
 
  
@@ -8,7 +8,7 @@ import './Header.css'
 const Header = ({ siteTitle }) => (
   <div className="Header">
   <div className="HeaderGroup">
-<Link to="/"><img src={logo} width="30" /></Link>
+<Link to="/"><img src={logo} width="50" /></Link>
 
 <Link to="/courses">Courses</Link>
 <Link to="/odwnloads">Downloads</Link>
